@@ -18,7 +18,7 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "Virus",
-    "PREFIX": "/",
+    "PREFIX": "+",
     "ADMINBOT": [
         "61578394512281"
     ],
