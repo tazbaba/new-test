@@ -9,7 +9,7 @@
     "autoClean": true,
     "commandDisabled": [
         "sim.js",
-        "spamban.js"
+       
     ],
     "eventDisabled": [
         "join.js"
