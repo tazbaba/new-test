@@ -8,7 +8,8 @@
     "allowInbox": false,
     "autoClean": true,
     "commandDisabled": [
-        "sim.js"
+        "sim.js",
+        "spamban.js"
     ],
     "eventDisabled": [
         "join.js"
